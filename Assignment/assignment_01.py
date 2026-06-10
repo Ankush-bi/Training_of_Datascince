@@ -150,7 +150,8 @@ print(lst[4][1])
 print(lst[4][0])
 
 # 8.Write a Python program to take a number as input from the user and:
-# Add 10 using the += operator o Print the updated value
+# Add 10 using the += operator
+# Print the updated value
 
 num = int(input("Enter a number: "))
 print(num)
